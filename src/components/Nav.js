@@ -18,12 +18,12 @@ const Nav = () => {
 
   return (
     <header>
-      <Link id="Logo" to="/">
+      <Link id="Logo" to="/Portfolio">
         <img className="logoNav" src={logoPic} alt="logo picture" />
       </Link>
       <nav ref={navRef}>
         <li onClick={showNavBar}>
-          <Link to="/">About</Link>
+          <Link to="/Portfolio">About</Link>
           <Line
             transition={{ duration: 0.75 }}
             initial={{ width: "0%" }}
