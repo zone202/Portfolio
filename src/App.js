@@ -20,7 +20,7 @@ function App() {
       <Nav />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" exact element={<AboutUs />} />
+          <Route path="/Portfolio" exact element={<AboutUs />} />
           <Route path="projects" exact element={<MyProjects />} />
           <Route path="/projects/:id" exact element={<ProjectDetail />} />
           <Route path="/contact" exact element={<ContactUs />} />
