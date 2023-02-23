@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9fde5e58.css",
+    "main.js": "/Portfolio/static/js/main.463574ef.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Sweater-pic2.jpg": "/Portfolio/static/media/Sweater-pic2.80fd8370c341adc4b869.jpg",
+    "static/media/gameon-pic2.jpg": "/Portfolio/static/media/gameon-pic2.934a592fc919d2a85d5b.jpg",
+    "static/media/Sweater-pic1.jpg": "/Portfolio/static/media/Sweater-pic1.d1b70ab6c69c9d21beb4.jpg",
+    "static/media/codecourses-pic1.jpg": "/Portfolio/static/media/codecourses-pic1.d4bf8e21c798ff50b262.jpg",
+    "static/media/photography-pic2.jpg": "/Portfolio/static/media/photography-pic2.1c74c17039c0c0a2207b.jpg",
+    "static/media/codecourses-pic2.jpg": "/Portfolio/static/media/codecourses-pic2.8617f43d2cf9c712141f.jpg",
+    "static/media/gameon-pic1.jpg": "/Portfolio/static/media/gameon-pic1.3547ee1b69b21517ef24.jpg",
+    "static/media/photography-pic1.jpg": "/Portfolio/static/media/photography-pic1.bad53b75b8205bfff2df.jpg",
+    "static/media/front-cartoon.png": "/Portfolio/static/media/front-cartoon.0814e44ff6345c80efab.png",
+    "static/media/code.png": "/Portfolio/static/media/code.667d526132ffe1b5843b.png",
+    "static/media/woocommerce.png": "/Portfolio/static/media/woocommerce.38f10f0cc8804ae40aa7.png",
+    "static/media/gsap.png": "/Portfolio/static/media/gsap.28c85a3e494957f365bd.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.4610cbabbff468ff8ae3.png",
+    "static/media/atomic.png": "/Portfolio/static/media/atomic.ba76032ae97d0cf0f805.png",
+    "static/media/php.png": "/Portfolio/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/wordpress-logo.png": "/Portfolio/static/media/wordpress-logo.9fa09f4e51c34ddc63d1.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/acf.png": "/Portfolio/static/media/acf.06f426cd29c6efea537e.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio/index.html",
+    "main.9fde5e58.css.map": "/Portfolio/static/css/main.9fde5e58.css.map",
+    "main.463574ef.js.map": "/Portfolio/static/js/main.463574ef.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fde5e58.css",
+    "static/js/main.463574ef.js"
+  ]
+}
