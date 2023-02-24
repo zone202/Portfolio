@@ -17,7 +17,7 @@ const FaqSection = () => {
           <motion.h4>Where can I find your resume?</motion.h4>
           <form
             className="answer-btn"
-            action="https://www.linkedin.com/in/daniel-wolanski-ab2898231/"
+            action="https://docdro.id/2elzxkr"
             method="get"
             target="_blank"
           >
