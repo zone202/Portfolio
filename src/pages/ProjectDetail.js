@@ -73,6 +73,8 @@ const HeadLine = styled.div`
 `;
 const Awards = styled.div`
   min-height: 60vh;
+  font-size: 30px;
+  text-align: center;
   display: flex;
   margin: 5rem 10rem;
   align-items: center;
