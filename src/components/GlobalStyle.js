@@ -21,7 +21,7 @@ body {
 }
 button {
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 3rem;
     cursor: pointer;
     padding: 1rem 2rem;
     border: 3px solid #04ffb4;

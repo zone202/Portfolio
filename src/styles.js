@@ -15,6 +15,9 @@ export const About = styled(motion.div)`
   @media (max-width: 700px) {
     min-height: 120vh;
   }
+  @media (max-width: 375px) {
+    min-height: 150vh;
+  }
 `;
 export const Description = styled.div`
   flex: 1;

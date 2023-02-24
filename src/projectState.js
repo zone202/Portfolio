@@ -21,7 +21,7 @@ export const ProjectState = () => {
             "“A fully functional eCommerce Sweater shop created on WordPress with its own Custom Theme. I wanted to showcase my skills with WordPress from scratch.”",
         },
         {
-          title: "Tools Used:",
+          title: "Tools Used",
           description:
             "HTML • CSS • PHP • Elementor • WooCommerce • MySQL • MyAdminPHP",
         },
@@ -59,7 +59,7 @@ export const ProjectState = () => {
             "“A game search to view new and upcoming games based on the RAWG API. Developed to improve my knowledge of Axios, API requests and data manipulation in React.”",
         },
         {
-          title: "Tools Used:",
+          title: "Tools Used",
           description:
             "HTML • CSS • JavaScript • React • APIs • Font Awesome • Framer Motion • Styled Componenets • React Router • Axios",
         },
@@ -101,7 +101,7 @@ export const ProjectState = () => {
             "“A Photography website I created for fun to understand GSAP and Barba better. Having the skills now to create better animations on a website.”",
         },
         {
-          title: "Tools Used:",
+          title: "Tools Used",
           description: "HTML • CSS • Font Awesome • GSAP • JavaScript • Barba",
         },
         {
@@ -142,7 +142,7 @@ export const ProjectState = () => {
             "“A fully functional eCommerce Sweater shop created on WordPress with its own Custom Theme. I wanted to showcase my skills with WordPress from scratch.”",
         },
         {
-          title: "Tools Used:",
+          title: "Tools Used",
           description:
             "HTML • CSS • PHP • MySQL • MyAdminPHP • Bootstrap • ACF",
         },

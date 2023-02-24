@@ -69,6 +69,10 @@ const Faq = styled(About)`
     z-index: 3;
     padding-top: 20px;
   }
+
+  button {
+    margin-top: 15px;
+  }
   .faq-line {
     background: white;
     height: 0.2rem;

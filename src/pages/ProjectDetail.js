@@ -85,7 +85,8 @@ const Awards = styled.div`
 const AwardStyle = styled.div`
   padding: 5rem;
   h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
   }
   .line {
     width: 100%;
@@ -115,7 +116,7 @@ const Award = ({ title, description }) => {
     <AwardStyle>
       <h3>{title}</h3>
       <div className="line"></div>
-      <p>{description}</p>
+      {description}
     </AwardStyle>
   );
 };
