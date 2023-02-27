@@ -28,7 +28,7 @@ export const ProjectState = () => {
         {
           title: "Project Link",
           description: (
-            <form action="https://tonelook.com/" method="get" target="_blank">
+            <form action="https://tonelook.com" method="get" target="_blank">
               <button type="submit">Click me</button>
             </form>
           ),
@@ -150,7 +150,7 @@ export const ProjectState = () => {
           title: "Project Link",
           description: (
             <form
-              action="http://www.coursesforcode.com/"
+              action="http://www.coursesforcode.com"
               method="get"
               target="_blank"
             >
